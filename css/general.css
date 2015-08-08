@@ -1078,21 +1078,20 @@ color: #ECEBEB;
 	@media only screen and (max-width: 767px) {
 		.intro-header {
 			height: 100%;
-			padding-top: 50px;
-			padding-bottom: 50px;
+			padding-top: 20px;
+			padding-bottom: 20px;
 			color: #f8f8f8;
-		    background-image: none; 
+
 			background-size: cover;
 			text-align: center;
-			background-color: #34495e;
 		}
 		
 		h1, .h1 {
-			font-size: 50px;
+			font-size: 30px;
 		}
 		
 		h3, .h3 {
-			font-size: 20px;
+			font-size: 10px;
 		}
 		#gallery1{display:none}
 		
