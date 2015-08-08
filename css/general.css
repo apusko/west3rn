@@ -1109,7 +1109,7 @@ color: #ECEBEB;
 
 /* Mobile Portrait */
 @media only screen and (max-width: 479px) {
-	.intro-header > .h1_home {
+	.h1_home {
 			font-size: 30px;
 		}
 	
