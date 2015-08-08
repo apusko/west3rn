@@ -1087,11 +1087,11 @@ color: #ECEBEB;
 		
 		
 		h1, .h1 {
-			font-size: 30px;
+			font-size: 50px;
 		}
 		
 		h3, .h3 {
-			font-size: 10px;
+			font-size: 20px;
 		}
 		#gallery1{display:none}
 		
@@ -1110,8 +1110,12 @@ color: #ECEBEB;
 /* Mobile Portrait */
 @media only screen and (max-width: 479px) {
 	.h1_home {
-			font-size: 30px;
+			font-size: 40px;
 		}
+
+	.h3_home {
+			font-size: 25px;
+	}
 	
 }
 @media screen and (max-width: 600px) {
