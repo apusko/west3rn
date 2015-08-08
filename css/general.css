@@ -1076,7 +1076,7 @@ color: #ECEBEB;
 
 /* All Mobile Sizes (devices and browser) */
 	@media only screen and (max-width: 767px) {
-		/*.intro-header {
+		.intro-header {
 			height: 100%;
 			padding-top: 50px;
 			padding-bottom: 50px;
@@ -1085,7 +1085,7 @@ color: #ECEBEB;
 			background-size: cover;
 			text-align: center;
 			background-color: #34495e;
-		}*/
+		}
 		
 		h1, .h1 {
 			font-size: 50px;
